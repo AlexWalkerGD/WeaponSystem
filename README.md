@@ -12,11 +12,10 @@ This project is a demonstration of a weapon system for a multiplayer game, where
 3. Reload Weapons: Click "R" to reload manually or let the ammunition run out for the weapon to reload automatically.
 
 ## Gameplay Screenshots
-![Captura de tela 2024-06-04 023700](https://github.com/AlexWalkerGD/WeaponSystem_Unreal/assets/67351804/31f48b9a-7420-499a-b0c2-c087878bb43d)
-![Captura de tela 2024-06-04 021537](https://github.com/AlexWalkerGD/WeaponSystem_Unreal/assets/67351804/edceb8c9-16a4-4f2c-b9c7-8d1f7ecf8829)
-![Captura de tela 2024-06-04 021957](https://github.com/AlexWalkerGD/WeaponSystem_Unreal/assets/67351804/cb56c6b6-a570-465b-8d44-f1bde8bbdbaf)
-![Captura de tela 2024-06-04 023940](https://github.com/AlexWalkerGD/WeaponSystem_Unreal/assets/67351804/e55dd887-aac1-434e-892a-93fb45de315a)
-![Captura de tela 2024-06-04 022702](https://github.com/AlexWalkerGD/WeaponSystem_Unreal/assets/67351804/4854ab04-b35b-4490-98c4-b23b9bd43d71)
+![WeaponSystem_5](https://github.com/user-attachments/assets/10955633-9029-4328-88df-cb016a05f2db)
+![WeaponSystem_3](https://github.com/user-attachments/assets/9359ac74-b65a-4953-9ba0-3a45bf4d8996)
+![WeaponSystem_2](https://github.com/user-attachments/assets/7af29f9f-49a9-4347-8c96-8e16541c0e41)
+![WeaponSystem_4](https://github.com/user-attachments/assets/d2b09978-b4c7-4cd0-8259-d8f51435806b)
 
 ## Running the Game
 ### Launch the game:
