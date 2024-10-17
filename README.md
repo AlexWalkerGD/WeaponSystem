@@ -22,7 +22,7 @@ This project is a demonstration of a weapon system for a multiplayer game, where
 - The game is currently under development and not yet available for public release. We are actively working on it and will provide updates as progress is made. Stay tuned for more information!
 
 ### Requirements
-- Unreal Engine 5.4 installed
+- Unreal Engine 5.3 installed
 
 ### Installation
 1. Clone the repository:
